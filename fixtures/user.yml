@@ -1,0 +1,9 @@
+app\Entity\User:
+  user_{1..10}:
+    firstname: <firstname()>
+    lastname: <lastname()>
+    email: <email()>
+    address: <address()>
+    country: <country()>
+    subscription: <name(1)>
+
